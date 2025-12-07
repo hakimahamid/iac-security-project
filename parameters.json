@@ -1,0 +1,6 @@
+{
+  "BucketName": "iac-secure-bucket-projetcloud-2025",
+  "LambdaName": "iac-upload-lambda",
+  "DynamoDBTable": "iac-upload-table",
+  "Region": "us-east-1"
+}
